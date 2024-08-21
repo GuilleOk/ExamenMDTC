@@ -1,0 +1,38 @@
+body{
+    display: flex;
+    flex-direction: column;
+    min-height: 100vh;
+}
+
+.itemsNavbar{
+    list-style: none;
+    display: inline;
+    color: white;
+}
+
+.img-carrusel{
+    height: 45vh;
+}
+
+#total{
+    background-color: lightslategray;
+    border: 0px;
+}
+
+input{
+    border-radius: 5px;
+    border: 1px solid lightslategray;
+}
+
+#base{
+    border-radius: 5px;
+    border: 1px solid lightslategray;
+}
+
+.card{
+    width: 260px;
+}
+
+#footerContainer{
+    margin-top: auto;
+}
